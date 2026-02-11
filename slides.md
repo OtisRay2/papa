@@ -19,14 +19,14 @@ Otis Segers | 12 februari 2026
 
 ---
 layout: team
-image: /papa.png
+image: https://otisray2.github.io/papa/papa.png
 name: Dit is mijn papa
 role: Oplossingenarchitect
 ---
 
 Mijn papa werkt voor
 
-![Papa](/amexio.png)
+![Papa](https://otisray2.github.io/papa/amexio.png)
 
 
 ::tags::
@@ -57,7 +57,7 @@ url: https://fuse.amexiogroup.com/
 
 ::screenshot::
 
-![Papa](/papa.png)
+![Papa](https://otisray2.github.io/papa/papa.png)
 
 ---
 layout: two-column
@@ -82,11 +82,11 @@ layout: two-column
 
 ::right::
 
-![Herman](/herman.png)
+![Herman](https://otisray2.github.io/papa/herman.png)
 
 ---
 layout: image
-image: /brug.png
+image: https://otisray2.github.io/papa/brug.png
 position: right
 ---
 
@@ -94,7 +94,7 @@ position: right
 
 ---
 layout: image
-image: /herman-blij.png
+image: https://otisray2.github.io/papa/herman-blij.png
 position: right
 ---
 
